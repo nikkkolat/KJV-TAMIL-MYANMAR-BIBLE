@@ -3,7 +3,7 @@
 // including once it's installed as an Android app — works with zero
 // internet connection.
 
-const CACHE_NAME = 'bible-study-v1';
+const CACHE_NAME = 'bible-study-v2';
 const APP_SHELL = [
     './',
     './index.html',
